@@ -6,9 +6,7 @@ A professional inspirational quote generator built using **Python** and **Stream
 
 ## 🚀 Live Demo
 
-Try the application here:
-
-🔗 https://daily-quote-generator-kxsedcdhlubsyktsdwjxj.streamlit.app/
+[Click here to view the application](https://daily-quote-generator-kxsedcdhlubsyktsdwjx.streamlit.app)
 
 ---
 
