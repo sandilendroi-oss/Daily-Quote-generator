@@ -4,6 +4,12 @@ A professional inspirational quote generator built using **Python** and **Stream
 
 ![Daily Quote Generator](screenshot.png)
 
+## 🚀 Live Demo
+
+Try the application here:
+
+🔗 https://daily-quote-generator-kxsedcdhlubsyktsdwjxj.streamlit.app/
+
 ---
 
 ## 🚀 Project Overview
